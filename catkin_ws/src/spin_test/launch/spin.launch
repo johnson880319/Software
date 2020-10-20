@@ -52,4 +52,6 @@
     <include file="$(find dagu_car)/launch/wheels_driver_node.launch">
         <arg name="veh" value="$(arg veh)"/>
     </include>
+
+    <node name="spin" pkg="spin_test" type="spin.py" output="screen" />
 </launch>
