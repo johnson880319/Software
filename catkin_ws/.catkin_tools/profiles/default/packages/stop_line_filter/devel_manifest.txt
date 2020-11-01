@@ -1,0 +1,5 @@
+20-indefinite-navigation/stop_line_filter
+/home/duck5/duckietown/catkin_ws/devel/.private/stop_line_filter/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/stop_line_filter/share/stop_line_filter/cmake/stop_line_filterConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/stop_line_filter/cmake/stop_line_filterConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/stop_line_filter/share/stop_line_filter/cmake/stop_line_filterConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/stop_line_filter/cmake/stop_line_filterConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/stop_line_filter/lib/pkgconfig/stop_line_filter.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/stop_line_filter.pc

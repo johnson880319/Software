@@ -1,0 +1,5 @@
+40-coordination/led_emitter
+/home/duck5/duckietown/catkin_ws/devel/.private/led_emitter/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/led_emitter/share/led_emitter/cmake/led_emitterConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/led_emitter/cmake/led_emitterConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/led_emitter/share/led_emitter/cmake/led_emitterConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/led_emitter/cmake/led_emitterConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/led_emitter/lib/pkgconfig/led_emitter.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/led_emitter.pc

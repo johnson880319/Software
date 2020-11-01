@@ -1,0 +1,4 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/traffic_light/cmake/traffic_lightConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/traffic_light/cmake/traffic_lightConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/traffic_light/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/traffic_light.pc

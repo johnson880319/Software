@@ -1,0 +1,4 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/rostest_example/cmake/rostest_exampleConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/rostest_example/cmake/rostest_exampleConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/rostest_example/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/rostest_example.pc

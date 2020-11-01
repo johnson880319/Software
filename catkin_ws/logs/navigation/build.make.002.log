@@ -1,0 +1,8 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _navigation_generate_messages_check_deps_GraphSearch
+[  0%] Built target duckietown_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target duckietown_msgs_generate_messages_py
+[ 33%] Built target navigation_generate_messages_cpp
+[100%] Built target navigation_generate_messages_py
+[100%] Built target navigation_generate_messages

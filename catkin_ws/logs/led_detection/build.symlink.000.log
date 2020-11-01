@@ -1,0 +1,4 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/led_detection/cmake/led_detectionConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/led_detection/cmake/led_detectionConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/led_detection/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/led_detection.pc

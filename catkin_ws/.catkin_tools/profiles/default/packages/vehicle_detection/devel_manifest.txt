@@ -1,0 +1,6 @@
+50-misc-additional-functionality/vehicle_detection
+/home/duck5/duckietown/catkin_ws/devel/.private/vehicle_detection/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/vehicle_detection/share/vehicle_detection/cmake/vehicle_detectionConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/vehicle_detection/cmake/vehicle_detectionConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/vehicle_detection/share/vehicle_detection/cmake/vehicle_detectionConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/vehicle_detection/cmake/vehicle_detectionConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/vehicle_detection/lib/python2.7/dist-packages/vehicle_detection/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/vehicle_detection/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/vehicle_detection/lib/pkgconfig/vehicle_detection.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/vehicle_detection.pc

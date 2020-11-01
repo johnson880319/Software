@@ -1,0 +1,5 @@
+40-coordination/led_joy_mapper
+/home/duck5/duckietown/catkin_ws/devel/.private/led_joy_mapper/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/led_joy_mapper/share/led_joy_mapper/cmake/led_joy_mapperConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/led_joy_mapper/cmake/led_joy_mapperConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/led_joy_mapper/share/led_joy_mapper/cmake/led_joy_mapperConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/led_joy_mapper/cmake/led_joy_mapperConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/led_joy_mapper/lib/pkgconfig/led_joy_mapper.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/led_joy_mapper.pc

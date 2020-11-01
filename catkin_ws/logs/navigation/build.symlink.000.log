@@ -1,0 +1,12 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/navigation/cmake/navigation-msg-extras.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/navigation/cmake/navigationConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/navigation/cmake/navigation-msg-paths.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/navigation/cmake/navigationConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/rqt_navigation/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/navigation/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/navigation/srv/_GraphSearch.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/navigation/srv/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/navigation.pc
+Symlinking /home/duck5/duckietown/catkin_ws/devel/include/navigation/GraphSearchResponse.h
+Symlinking /home/duck5/duckietown/catkin_ws/devel/include/navigation/GraphSearch.h
+Symlinking /home/duck5/duckietown/catkin_ws/devel/include/navigation/GraphSearchRequest.h

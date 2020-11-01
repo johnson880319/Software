@@ -1,0 +1,8 @@
+[01m[Kc++:[m[K [01;31m[Kinternal compiler error: [m[KKilled (program cc1plus)
+Please submit a full bug report,
+with preprocessed source if appropriate.
+See <file:///usr/share/doc/gcc-5/README.Bugs> for instructions.
+make[2]: *** [CMakeFiles/apriltag_ros_continuous_detector.dir/src/continuous_detector.cpp.o] Error 4
+make[1]: *** [CMakeFiles/apriltag_ros_continuous_detector.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

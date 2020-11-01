@@ -1,0 +1,9 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_rosConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_rosConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_ros-msg-paths.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_ros-msg-extras.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/libapriltag_detector_nodelet.so
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/libapriltag_detector.so
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/apriltags_ros/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/apriltags_ros.pc
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/apriltags_ros/apriltag_detector_node

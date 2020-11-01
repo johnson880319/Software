@@ -1,0 +1,4 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/rgb_led/cmake/rgb_ledConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/rgb_led/cmake/rgb_ledConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/rgb_led/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/rgb_led.pc

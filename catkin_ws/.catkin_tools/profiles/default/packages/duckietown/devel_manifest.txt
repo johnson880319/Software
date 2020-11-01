@@ -1,0 +1,7 @@
+00-infrastructure/duckietown
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown/share/duckietown/cmake/duckietownConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckietown/cmake/duckietownConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown/share/duckietown/cmake/duckietownConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckietown/cmake/duckietownConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown/lib/python2.7/dist-packages/duckietown_utils_tests/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_utils_tests/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown/lib/python2.7/dist-packages/duckietown_utils/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_utils/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown/lib/pkgconfig/duckietown.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/duckietown.pc

@@ -1,0 +1,11 @@
+20-indefinite-navigation/apriltags_ros/apriltags_ros
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/share/apriltags_ros/cmake/apriltags_rosConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_rosConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/share/apriltags_ros/cmake/apriltags_rosConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_rosConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/share/apriltags_ros/cmake/apriltags_ros-msg-paths.cmake /home/duck5/duckietown/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_ros-msg-paths.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/share/apriltags_ros/cmake/apriltags_ros-msg-extras.cmake /home/duck5/duckietown/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_ros-msg-extras.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/lib/libapriltag_detector_nodelet.so /home/duck5/duckietown/catkin_ws/devel/lib/libapriltag_detector_nodelet.so
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/lib/libapriltag_detector.so /home/duck5/duckietown/catkin_ws/devel/lib/libapriltag_detector.so
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/lib/python2.7/dist-packages/apriltags_ros/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/apriltags_ros/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/lib/pkgconfig/apriltags_ros.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/apriltags_ros.pc
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/lib/apriltags_ros/apriltag_detector_node /home/duck5/duckietown/catkin_ws/devel/lib/apriltags_ros/apriltag_detector_node

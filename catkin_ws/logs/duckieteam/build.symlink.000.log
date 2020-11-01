@@ -1,0 +1,5 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/duckieteam/cmake/duckieteamConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/duckieteam/cmake/duckieteamConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/duckieteam_tests/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/duckieteam/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/duckieteam.pc

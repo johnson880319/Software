@@ -1,0 +1,5 @@
+spin_test
+/home/duck5/duckietown/catkin_ws/devel/.private/spin_test/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/spin_test/share/spin_test/cmake/spin_testConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/spin_test/cmake/spin_testConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/spin_test/share/spin_test/cmake/spin_testConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/spin_test/cmake/spin_testConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/spin_test/lib/pkgconfig/spin_test.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/spin_test.pc

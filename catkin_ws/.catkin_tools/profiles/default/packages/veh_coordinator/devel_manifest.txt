@@ -1,0 +1,6 @@
+70-convenience-packages/veh_coordinator
+/home/duck5/duckietown/catkin_ws/devel/.private/veh_coordinator/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/veh_coordinator/share/veh_coordinator/cmake/veh_coordinatorConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/veh_coordinator/cmake/veh_coordinatorConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/veh_coordinator/share/veh_coordinator/cmake/veh_coordinatorConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/veh_coordinator/cmake/veh_coordinatorConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/veh_coordinator/lib/python2.7/dist-packages/vehcoordinator/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/vehcoordinator/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/veh_coordinator/lib/pkgconfig/veh_coordinator.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/veh_coordinator.pc

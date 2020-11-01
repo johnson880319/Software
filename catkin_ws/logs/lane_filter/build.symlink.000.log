@@ -1,0 +1,4 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/lane_filter/cmake/lane_filterConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/lane_filter/cmake/lane_filterConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/lane_filter/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/lane_filter.pc

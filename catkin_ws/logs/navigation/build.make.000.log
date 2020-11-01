@@ -1,0 +1,19 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _navigation_generate_messages_check_deps_GraphSearch[0m
+[  0%] Built target _navigation_generate_messages_check_deps_GraphSearch
+[35m[1mScanning dependencies of target duckietown_msgs_generate_messages_cpp[0m
+[  0%] Built target duckietown_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target duckietown_msgs_generate_messages_py[0m
+[  0%] Built target duckietown_msgs_generate_messages_py
+[35m[1mScanning dependencies of target navigation_generate_messages_cpp[0m
+[ 33%] [34m[1mGenerating C++ code from navigation/GraphSearch.srv[0m
+[ 33%] Built target navigation_generate_messages_cpp
+[35m[1mScanning dependencies of target navigation_generate_messages_py[0m
+[ 66%] [34m[1mGenerating Python code from SRV navigation/GraphSearch[0m
+[100%] [34m[1mGenerating Python srv __init__.py for navigation[0m
+[100%] Built target navigation_generate_messages_py
+[35m[1mScanning dependencies of target navigation_generate_messages[0m
+[100%] Built target navigation_generate_messages

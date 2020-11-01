@@ -1,0 +1,12 @@
+05-teleop/adafruit_drivers
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/share/adafruit_drivers/cmake/adafruit_driversConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/adafruit_drivers/cmake/adafruit_driversConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/share/adafruit_drivers/cmake/adafruit_driversConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/adafruit_drivers/cmake/adafruit_driversConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/lib/python2.7/dist-packages/Gyro_L3GD20/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/Gyro_L3GD20/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/lib/python2.7/dist-packages/Adafruit_GPIO/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/Adafruit_GPIO/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/lib/python2.7/dist-packages/Adafruit_MotorHAT/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/Adafruit_MotorHAT/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/lib/python2.7/dist-packages/Adafruit_I2C/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/Adafruit_I2C/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/lib/python2.7/dist-packages/Adafruit_LSM303/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/Adafruit_LSM303/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/lib/python2.7/dist-packages/Adafruit_ADS1x15/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/Adafruit_ADS1x15/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/lib/python2.7/dist-packages/Adafruit_PWM_Servo_Driver/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/Adafruit_PWM_Servo_Driver/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/adafruit_drivers/lib/pkgconfig/adafruit_drivers.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/adafruit_drivers.pc

@@ -1,0 +1,5 @@
+70-convenience-packages/duckietown_demos
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_demos/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_demos/share/duckietown_demos/cmake/duckietown_demosConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckietown_demos/cmake/duckietown_demosConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_demos/share/duckietown_demos/cmake/duckietown_demosConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckietown_demos/cmake/duckietown_demosConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_demos/lib/pkgconfig/duckietown_demos.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/duckietown_demos.pc

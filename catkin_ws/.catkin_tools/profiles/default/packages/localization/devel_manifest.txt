@@ -1,0 +1,6 @@
+30-localization-and-planning/localization
+/home/duck5/duckietown/catkin_ws/devel/.private/localization/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/localization/share/localization/cmake/localizationConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/localization/cmake/localizationConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/localization/share/localization/cmake/localizationConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/localization/cmake/localizationConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/localization/lib/python2.7/dist-packages/localization/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/localization/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/localization/lib/pkgconfig/localization.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/localization.pc

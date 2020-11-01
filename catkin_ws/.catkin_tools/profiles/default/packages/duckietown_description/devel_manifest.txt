@@ -1,0 +1,6 @@
+30-localization-and-planning/duckietown_description
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_description/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_description/share/duckietown_description/cmake/duckietown_descriptionConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckietown_description/cmake/duckietown_descriptionConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_description/share/duckietown_description/cmake/duckietown_descriptionConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckietown_description/cmake/duckietown_descriptionConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_description/lib/python2.7/dist-packages/duckietown_description/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_description/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_description/lib/pkgconfig/duckietown_description.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/duckietown_description.pc

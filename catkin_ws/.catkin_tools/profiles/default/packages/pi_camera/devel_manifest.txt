@@ -1,0 +1,6 @@
+05-teleop/pi_camera
+/home/duck5/duckietown/catkin_ws/devel/.private/pi_camera/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/pi_camera/share/pi_camera/cmake/pi_cameraConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/pi_camera/cmake/pi_cameraConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/pi_camera/share/pi_camera/cmake/pi_cameraConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/pi_camera/cmake/pi_cameraConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/pi_camera/lib/python2.7/dist-packages/pi_camera/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/pi_camera/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/pi_camera/lib/pkgconfig/pi_camera.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/pi_camera.pc

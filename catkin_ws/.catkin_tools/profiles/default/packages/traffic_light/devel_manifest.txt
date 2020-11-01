@@ -1,0 +1,6 @@
+40-coordination/traffic_light
+/home/duck5/duckietown/catkin_ws/devel/.private/traffic_light/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/traffic_light/share/traffic_light/cmake/traffic_lightConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/traffic_light/cmake/traffic_lightConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/traffic_light/share/traffic_light/cmake/traffic_lightConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/traffic_light/cmake/traffic_lightConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/traffic_light/lib/python2.7/dist-packages/traffic_light/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/traffic_light/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/traffic_light/lib/pkgconfig/traffic_light.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/traffic_light.pc

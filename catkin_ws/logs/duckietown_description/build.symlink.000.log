@@ -1,0 +1,4 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/duckietown_description/cmake/duckietown_descriptionConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/duckietown_description/cmake/duckietown_descriptionConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_description/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/duckietown_description.pc

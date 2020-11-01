@@ -1,0 +1,34 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target duckietown_msgs_generate_messages_cpp[0m
+[  0%] Built target duckietown_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target duckietown_msgs_generate_messages_py[0m
+[  0%] Built target duckietown_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target apriltags_ros_generate_messages_cpp[0m
+[  0%] Built target apriltags_ros_generate_messages_cpp
+[35m[1mScanning dependencies of target apriltags_ros_generate_messages_py[0m
+[  0%] Built target apriltags_ros_generate_messages_py
+[35m[1mScanning dependencies of target apriltag_detector[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/apriltag_detector.dir/src/apriltag_detector.cpp.o[0m
+[35m[1mScanning dependencies of target apriltags_ros_generate_messages[0m
+[ 16%] Built target apriltags_ros_generate_messages
+[ 33%] [32m[1mLinking CXX shared library /home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/lib/libapriltag_detector.so[0m
+[ 33%] Built target apriltag_detector
+[35m[1mScanning dependencies of target apriltag_detector_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/apriltag_detector_node.dir/src/apriltag_detector_node.cpp.o[0m
+[35m[1mScanning dependencies of target apriltag_detector_nodelet[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/apriltag_detector_nodelet.dir/src/apriltag_detector_nodelet.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/lib/apriltags_ros/apriltag_detector_node[0m
+[ 83%] Built target apriltag_detector_node
+[100%] [32m[1mLinking CXX shared library /home/duck5/duckietown/catkin_ws/devel/.private/apriltags_ros/lib/libapriltag_detector_nodelet.so[0m
+[100%] Built target apriltag_detector_nodelet

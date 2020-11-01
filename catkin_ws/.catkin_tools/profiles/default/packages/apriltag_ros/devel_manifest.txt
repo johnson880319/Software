@@ -1,0 +1,24 @@
+20-indefinite-navigation/apriltags_ros/apriltag_ros/apriltag_ros
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/share/apriltag_ros/cmake/apriltag_ros-msg-paths.cmake /home/duck5/duckietown/catkin_ws/devel/share/apriltag_ros/cmake/apriltag_ros-msg-paths.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/share/apriltag_ros/cmake/apriltag_ros-msg-extras.cmake /home/duck5/duckietown/catkin_ws/devel/share/apriltag_ros/cmake/apriltag_ros-msg-extras.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/share/apriltag_ros/cmake/apriltag_rosConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/apriltag_ros/cmake/apriltag_rosConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/share/apriltag_ros/cmake/apriltag_rosConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/apriltag_ros/cmake/apriltag_rosConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/libapriltag_ros_continuous_detector.so /home/duck5/duckietown/catkin_ws/devel/lib/libapriltag_ros_continuous_detector.so
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/libapriltag_ros_single_image_detector.so /home/duck5/duckietown/catkin_ws/devel/lib/libapriltag_ros_single_image_detector.so
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/libapriltag_ros_common.so /home/duck5/duckietown/catkin_ws/devel/lib/libapriltag_ros_common.so
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/apriltag_ros/apriltag_ros_continuous_node /home/duck5/duckietown/catkin_ws/devel/lib/apriltag_ros/apriltag_ros_continuous_node
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/apriltag_ros/apriltag_ros_single_image_server_node /home/duck5/duckietown/catkin_ws/devel/lib/apriltag_ros/apriltag_ros_single_image_server_node
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/apriltag_ros/apriltag_ros_single_image_client_node /home/duck5/duckietown/catkin_ws/devel/lib/apriltag_ros/apriltag_ros_single_image_client_node
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/python2.7/dist-packages/apriltag_ros/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/apriltag_ros/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/python2.7/dist-packages/apriltag_ros/msg/_AprilTagDetection.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/apriltag_ros/msg/_AprilTagDetection.py
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/python2.7/dist-packages/apriltag_ros/msg/_AprilTagDetectionArray.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/apriltag_ros/msg/_AprilTagDetectionArray.py
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/python2.7/dist-packages/apriltag_ros/msg/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/apriltag_ros/msg/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/python2.7/dist-packages/apriltag_ros/srv/_AnalyzeSingleImage.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/apriltag_ros/srv/_AnalyzeSingleImage.py
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/python2.7/dist-packages/apriltag_ros/srv/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/apriltag_ros/srv/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/pkgconfig/apriltag_ros.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/apriltag_ros.pc
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/include/apriltag_ros/AnalyzeSingleImageResponse.h /home/duck5/duckietown/catkin_ws/devel/include/apriltag_ros/AnalyzeSingleImageResponse.h
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/include/apriltag_ros/AprilTagDetection.h /home/duck5/duckietown/catkin_ws/devel/include/apriltag_ros/AprilTagDetection.h
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/include/apriltag_ros/AnalyzeSingleImage.h /home/duck5/duckietown/catkin_ws/devel/include/apriltag_ros/AnalyzeSingleImage.h
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/include/apriltag_ros/AprilTagDetectionArray.h /home/duck5/duckietown/catkin_ws/devel/include/apriltag_ros/AprilTagDetectionArray.h
+/home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/include/apriltag_ros/AnalyzeSingleImageRequest.h /home/duck5/duckietown/catkin_ws/devel/include/apriltag_ros/AnalyzeSingleImageRequest.h

@@ -1,0 +1,6 @@
+60-templates/pkg_name
+/home/duck5/duckietown/catkin_ws/devel/.private/pkg_name/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/pkg_name/share/pkg_name/cmake/pkg_nameConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/pkg_name/cmake/pkg_nameConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/pkg_name/share/pkg_name/cmake/pkg_nameConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/pkg_name/cmake/pkg_nameConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/pkg_name/lib/python2.7/dist-packages/pkg_name/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/pkg_name/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/pkg_name/lib/pkgconfig/pkg_name.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/pkg_name.pc

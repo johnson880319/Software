@@ -1,0 +1,6 @@
+70-convenience-packages/duckietown_logs
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_logs/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_logs/share/duckietown_logs/cmake/duckietown_logsConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckietown_logs/cmake/duckietown_logsConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_logs/share/duckietown_logs/cmake/duckietown_logsConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckietown_logs/cmake/duckietown_logsConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_logs/lib/python2.7/dist-packages/duckietown_logs/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_logs/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/duckietown_logs/lib/pkgconfig/duckietown_logs.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/duckietown_logs.pc

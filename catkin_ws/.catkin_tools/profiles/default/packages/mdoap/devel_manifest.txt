@@ -1,0 +1,6 @@
+50-misc-additional-functionality/mdoap
+/home/duck5/duckietown/catkin_ws/devel/.private/mdoap/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/mdoap/share/mdoap/cmake/mdoapConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/mdoap/cmake/mdoapConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/mdoap/share/mdoap/cmake/mdoapConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/mdoap/cmake/mdoapConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/mdoap/lib/python2.7/dist-packages/mdoap/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/mdoap/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/mdoap/lib/pkgconfig/mdoap.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/mdoap.pc

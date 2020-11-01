@@ -1,0 +1,4 @@
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/veh_coordinator/cmake/veh_coordinatorConfig-version.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/share/veh_coordinator/cmake/veh_coordinatorConfig.cmake
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/vehcoordinator/__init__.py
+Symlinking /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/veh_coordinator.pc

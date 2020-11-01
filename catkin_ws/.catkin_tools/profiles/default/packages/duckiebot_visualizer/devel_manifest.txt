@@ -1,0 +1,6 @@
+70-convenience-packages/duckiebot_visualizer
+/home/duck5/duckietown/catkin_ws/devel/.private/duckiebot_visualizer/cmake.lock /home/duck5/duckietown/catkin_ws/devel/./cmake.lock
+/home/duck5/duckietown/catkin_ws/devel/.private/duckiebot_visualizer/share/duckiebot_visualizer/cmake/duckiebot_visualizerConfig-version.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckiebot_visualizer/cmake/duckiebot_visualizerConfig-version.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckiebot_visualizer/share/duckiebot_visualizer/cmake/duckiebot_visualizerConfig.cmake /home/duck5/duckietown/catkin_ws/devel/share/duckiebot_visualizer/cmake/duckiebot_visualizerConfig.cmake
+/home/duck5/duckietown/catkin_ws/devel/.private/duckiebot_visualizer/lib/python2.7/dist-packages/duckiebot_visualizer/__init__.py /home/duck5/duckietown/catkin_ws/devel/lib/python2.7/dist-packages/duckiebot_visualizer/__init__.py
+/home/duck5/duckietown/catkin_ws/devel/.private/duckiebot_visualizer/lib/pkgconfig/duckiebot_visualizer.pc /home/duck5/duckietown/catkin_ws/devel/lib/pkgconfig/duckiebot_visualizer.pc
