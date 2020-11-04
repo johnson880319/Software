@@ -12,15 +12,7 @@
 [ 40%] Built target apriltag_ros_generate_messages
 [ 50%] Built target apriltag_ros_common
 [ 60%] Built target apriltag_ros_single_image_client_node
-[ 65%] [32mBuilding CXX object CMakeFiles/apriltag_ros_continuous_detector.dir/src/continuous_detector.cpp.o[0m
-[ 75%] Built target apriltag_ros_single_image_detector
-[35m[1mScanning dependencies of target apriltag_ros_single_image_server_node[0m
-[ 80%] [32mBuilding CXX object CMakeFiles/apriltag_ros_single_image_server_node.dir/src/apriltag_ros_single_image_server_node.cpp.o[0m
-[ 85%] [32m[1mLinking CXX executable /home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/apriltag_ros/apriltag_ros_single_image_server_node[0m
-[ 85%] Built target apriltag_ros_single_image_server_node
-[ 90%] [32m[1mLinking CXX shared library /home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/libapriltag_ros_continuous_detector.so[0m
-[ 90%] Built target apriltag_ros_continuous_detector
-[35m[1mScanning dependencies of target apriltag_ros_continuous_node[0m
-[ 95%] [32mBuilding CXX object CMakeFiles/apriltag_ros_continuous_node.dir/src/apriltag_ros_continuous_node.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/duck5/duckietown/catkin_ws/devel/.private/apriltag_ros/lib/apriltag_ros/apriltag_ros_continuous_node[0m
-[100%] Built target apriltag_ros_continuous_node
+[ 70%] Built target apriltag_ros_continuous_detector
+[ 80%] Built target apriltag_ros_continuous_node
+[ 90%] Built target apriltag_ros_single_image_detector
+[100%] Built target apriltag_ros_single_image_server_node

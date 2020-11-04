@@ -21,6 +21,8 @@
  	<!-- AprilTags Detections -->
     <remap from="image_rect" to="$(arg veh)/camera_node/image/rect" />
     <remap from="camera_info" to="$(arg veh)/camera_node/camera_info" />
+    <remap from="$(arg veh)/camera_node/image/camera_info" 
+      to="$(arg veh)/camera_node/raw_camera_info" />
     <include file="$(find spin_test)/launch/continuous_detection.launch">
     </include>
  
