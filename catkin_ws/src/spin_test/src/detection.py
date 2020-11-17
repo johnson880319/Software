@@ -27,10 +27,6 @@ class Detection:
                 emstop = BoolStamped()
                 emstop.data = True
                 self.pub.publish(emstop)
-            else:
-                emstop = BoolStamped()
-                emstop.data = True
-                self.pub.publish(emstop)
 
 if __name__ == '__main__':
     try:
