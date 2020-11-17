@@ -21,7 +21,7 @@ class Detection:
         self.detected = False
     
     def pubStop(self):
-        rate = rospy.Rate(60)
+        rate = rospy.Rate(1)
         while not rospy.is_shutdown():
             if self.detected == True:
                 rospy.loginfo("publishing emergency_stop")
