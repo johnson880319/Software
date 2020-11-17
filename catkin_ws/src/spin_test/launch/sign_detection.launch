@@ -26,7 +26,7 @@
     <include file="$(find spin_test)/launch/continuous_detection.launch">
     </include>
 
-	<include file="$(find spin_test)/launch/jotstick.launch">
+	<include file="$(find spin_test)/launch/joystick.launch">
 		<arg name="veh" vaule="$(arg veh)"/>
 	</include>
  
