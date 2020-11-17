@@ -21,10 +21,12 @@ class Detection:
         self.detected = False
     
     def pubStop(self):
-        rospy.loginfo("publishing emergency_stop")
-        emstop = BoolStamped()
-        emstop.data = True
-        self.pub.publish(emstop)
+        while not rospy.is_shutdown():
+            if self.detected == True:
+                rospy.loginfo("publishing emergency_stop")
+                emstop = BoolStamped()
+                emstop.data = True
+                self.pub.publish(emstop)
 
 if __name__ == '__main__':
     try:
