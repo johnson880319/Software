@@ -27,7 +27,7 @@
     </include>
 
 	<include file="$(find spin_test)/launch/joystick.launch">
-		<arg name="veh" vaule="$(arg veh)"/>
+		<arg name="veh" value="$(arg veh)"/>
 	</include>
  
 
