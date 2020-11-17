@@ -1,50 +1,55 @@
 {
-  "configurations": [
-    {
-      "browse": {
-        "databaseFilename": "",
-        "limitSymbolsToIncludedHeaders": true
-      },
-      "includePath": [
-        "/home/bala/duckietown/catkin_ws/devel/include/**",
-        "/opt/ros/kinetic/include/**",
-        "/home/bala/duckietown/catkin_ws/src/05-teleop/adafruit_drivers/include/**",
-        "/home/bala/duckietown/catkin_ws/src/10-lane-control/anti_instagram/include/**",
-        "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/apriltags_ros/apriltags/include/**",
-        "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/apriltags_ros/apriltags_ros/include/**",
-        "/home/bala/duckietown/catkin_ws/src/10-lane-control/complete_image_pipeline/include/**",
-        "/home/bala/duckietown/catkin_ws/src/05-teleop/dagu_car/include/**",
-        "/home/bala/duckietown/catkin_ws/src/70-convenience-packages/duckiebot_visualizer/include/**",
-        "/home/bala/duckietown/catkin_ws/src/00-infrastructure/duckieteam/include/**",
-        "/home/bala/duckietown/catkin_ws/src/00-infrastructure/duckietown/include/**",
-        "/home/bala/duckietown/catkin_ws/src/30-localization-and-planning/duckietown_description/include/**",
-        "/home/bala/duckietown/catkin_ws/src/00-infrastructure/easy_algo/include/**",
-        "/home/bala/duckietown/catkin_ws/src/00-infrastructure/easy_logs/include/**",
-        "/home/bala/duckietown/catkin_ws/src/00-infrastructure/easy_node/include/**",
-        "/home/bala/duckietown/catkin_ws/src/00-infrastructure/easy_regression/include/**",
-        "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/fsm/include/**",
-        "/home/bala/duckietown/catkin_ws/src/10-lane-control/ground_projection/include/**",
-        "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/intersection_control/include/**",
-        "/home/bala/duckietown/catkin_ws/src/10-lane-control/lane_filter/include/**",
-        "/home/bala/duckietown/catkin_ws/src/40-coordination/led_detection/include/**",
-        "/home/bala/duckietown/catkin_ws/src/40-coordination/led_interpreter/include/**",
-        "/home/bala/duckietown/catkin_ws/src/10-lane-control/line_detector/include/**",
-        "/home/bala/duckietown/catkin_ws/src/10-lane-control/line_detector2/include/**",
-        "/home/bala/duckietown/catkin_ws/src/30-localization-and-planning/localization/include/**",
-        "/home/bala/duckietown/catkin_ws/src/50-misc-additional-functionality/mdoap/include/**",
-        "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/navigation/include/**",
-        "/home/bala/duckietown/catkin_ws/src/25-devel-saviors/obst_avoid/include/**",
-        "/home/bala/duckietown/catkin_ws/src/05-teleop/pi_camera/include/**",
-        "/home/bala/duckietown/catkin_ws/src/60-templates/pkg_name/include/**",
-        "/home/bala/duckietown/catkin_ws/src/40-coordination/rgb_led/include/**",
-        "/home/bala/duckietown/catkin_ws/src/60-templates/rostest_example/include/**",
-        "/home/bala/duckietown/catkin_ws/src/40-coordination/traffic_light/include/**",
-        "/home/bala/duckietown/catkin_ws/src/70-convenience-packages/veh_coordinator/include/**",
-        "/home/bala/duckietown/catkin_ws/src/50-misc-additional-functionality/vehicle_detection/include/**",
-        "/home/bala/duckietown/catkin_ws/src/00-infrastructure/what_the_duck/include/**",
-        "/usr/include/**"
-      ],
-      "name": "ROS"
-    }
-  ]
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/bala/duckietown/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/bala/duckietown/catkin_ws/src/05-teleop/adafruit_drivers/include/**",
+                "/home/bala/duckietown/catkin_ws/src/10-lane-control/anti_instagram/include/**",
+                "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/apriltags_ros/apriltags/include/**",
+                "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/apriltags_ros/apriltags_ros/include/**",
+                "/home/bala/duckietown/catkin_ws/src/10-lane-control/complete_image_pipeline/include/**",
+                "/home/bala/duckietown/catkin_ws/src/05-teleop/dagu_car/include/**",
+                "/home/bala/duckietown/catkin_ws/src/70-convenience-packages/duckiebot_visualizer/include/**",
+                "/home/bala/duckietown/catkin_ws/src/00-infrastructure/duckieteam/include/**",
+                "/home/bala/duckietown/catkin_ws/src/00-infrastructure/duckietown/include/**",
+                "/home/bala/duckietown/catkin_ws/src/30-localization-and-planning/duckietown_description/include/**",
+                "/home/bala/duckietown/catkin_ws/src/00-infrastructure/easy_algo/include/**",
+                "/home/bala/duckietown/catkin_ws/src/00-infrastructure/easy_logs/include/**",
+                "/home/bala/duckietown/catkin_ws/src/00-infrastructure/easy_node/include/**",
+                "/home/bala/duckietown/catkin_ws/src/00-infrastructure/easy_regression/include/**",
+                "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/fsm/include/**",
+                "/home/bala/duckietown/catkin_ws/src/10-lane-control/ground_projection/include/**",
+                "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/intersection_control/include/**",
+                "/home/bala/duckietown/catkin_ws/src/10-lane-control/lane_filter/include/**",
+                "/home/bala/duckietown/catkin_ws/src/40-coordination/led_detection/include/**",
+                "/home/bala/duckietown/catkin_ws/src/40-coordination/led_interpreter/include/**",
+                "/home/bala/duckietown/catkin_ws/src/10-lane-control/line_detector/include/**",
+                "/home/bala/duckietown/catkin_ws/src/10-lane-control/line_detector2/include/**",
+                "/home/bala/duckietown/catkin_ws/src/30-localization-and-planning/localization/include/**",
+                "/home/bala/duckietown/catkin_ws/src/50-misc-additional-functionality/mdoap/include/**",
+                "/home/bala/duckietown/catkin_ws/src/20-indefinite-navigation/navigation/include/**",
+                "/home/bala/duckietown/catkin_ws/src/25-devel-saviors/obst_avoid/include/**",
+                "/home/bala/duckietown/catkin_ws/src/05-teleop/pi_camera/include/**",
+                "/home/bala/duckietown/catkin_ws/src/60-templates/pkg_name/include/**",
+                "/home/bala/duckietown/catkin_ws/src/40-coordination/rgb_led/include/**",
+                "/home/bala/duckietown/catkin_ws/src/60-templates/rostest_example/include/**",
+                "/home/bala/duckietown/catkin_ws/src/40-coordination/traffic_light/include/**",
+                "/home/bala/duckietown/catkin_ws/src/70-convenience-packages/veh_coordinator/include/**",
+                "/home/bala/duckietown/catkin_ws/src/50-misc-additional-functionality/vehicle_detection/include/**",
+                "/home/bala/duckietown/catkin_ws/src/00-infrastructure/what_the_duck/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
 }
