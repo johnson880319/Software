@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import rospy
 from apriltag_ros.msg import AprilTagDetectionArray
-from duckietown_msgs import BoolStamped
+from duckietown_msgs.msg import BoolStamped
 
 class detection:
     def __init__(self):
