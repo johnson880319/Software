@@ -3,7 +3,7 @@ import rospy
 from apriltag_ros.msg import AprilTagDetectionArray
 from duckietown_msgs.msg import BoolStamped
 
-class detection:
+class Detection:
     def __init__(self):
         self.detected = False
         self.pub = rospy.Publisher('/duck5/wheels_driver_node/emergency_stop', BoolStamped, queue_size=10)
@@ -29,7 +29,7 @@ class detection:
 if __name__ == '__main__':
     try:
         rospy.init_node('tag_detector')
-        spin_test()
+        det = Detection()
         
     except rospy.ROSInterruptException:
         pass
