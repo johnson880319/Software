@@ -30,5 +30,6 @@
 		<arg name="veh" value="$(arg veh)"/>
 	</include>
  
+	<node name="detection" pkg="spin_test" type="detection.py" output="screen" />
 
 </launch>

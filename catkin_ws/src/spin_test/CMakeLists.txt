@@ -9,6 +9,7 @@ project(spin_test)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   duckietown_msgs
+  apriltag_ros
   rospy
 )
 
@@ -160,6 +161,7 @@ include_directories(
 ## in contrast to setup.py, you can choose the destination
 install(PROGRAMS
   src/spin.py
+  src/detection.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
