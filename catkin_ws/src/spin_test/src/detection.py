@@ -9,6 +9,7 @@ class detection:
         self.pub = rospy.Publisher('/duck5/wheels_driver_node/emergency_stop', BoolStamped, queue_size=10)
         self.sub = rospy.Subscriber('/tag_detections', AprilTagDetectionArray, self.detectionCallback)
         self.pubStop()
+        rospy.spin()
 
     def detectionCallback(self, data):
         for detection in data.detections:
@@ -29,5 +30,6 @@ if __name__ == '__main__':
     try:
         rospy.init_node('tag_detector')
         spin_test()
+        
     except rospy.ROSInterruptException:
         pass
