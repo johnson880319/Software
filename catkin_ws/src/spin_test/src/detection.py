@@ -26,7 +26,7 @@ class Detection:
                 rospy.loginfo("publishing emergency_stop")
                 emstop = BoolStamped()
                 emstop.data = True
-                pub.publish(emstop)
+                self.pub.publish(emstop)
 
 if __name__ == '__main__':
     try:
