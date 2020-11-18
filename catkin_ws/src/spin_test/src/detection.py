@@ -9,7 +9,6 @@ class Detection:
         self.lastDetected = False
         self.pub = rospy.Publisher('/duck5/wheels_driver_node/emergency_stop', BoolStamped, queue_size=10)
         self.sub = rospy.Subscriber('/tag_detections', AprilTagDetectionArray, self.detectionCallback)
-        self.pubStop()
         rospy.spin()
 
     def detectionCallback(self, data):
@@ -22,7 +21,7 @@ class Detection:
             rospy.loginfo("detected tag id==2, stopping duckiebot")
             self.pubStop()
         elif self.detected == False and self.lastDetected == True:
-            rospy.loginfo("detected tag id==2, restarting duckiebot")
+            rospy.loginfo("restarting duckiebot")
             self.pubStop()
         self.lastDetected = self.detected
     
