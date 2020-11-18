@@ -17,9 +17,12 @@ class Detection:
         for detection in data.detections:
             for id_ in detection.id:
                 if id_ == 2:
-                    rospy.loginfo("detected tag id==2, stopping duckiebot")
                     self.detected = True
-        if self.detected != self.lastDetected:
+        if self.detected == True and self.lastDetected == False:
+            rospy.loginfo("detected tag id==2, stopping duckiebot")
+            self.pubStop()
+        elif self.detected == False and self.lastDetected == True:
+            rospy.loginfo("detected tag id==2, restarting duckiebot")
             self.pubStop()
         self.lastDetected = self.detected
     
