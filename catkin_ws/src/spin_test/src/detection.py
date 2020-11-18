@@ -26,7 +26,6 @@ class Detection:
         self.lastDetected = self.detected
     
     def pubStop(self):
-        rospy.loginfo("publishing emergency_stop")
         emstop = BoolStamped()
         emstop.data = True
         self.pub.publish(emstop)
