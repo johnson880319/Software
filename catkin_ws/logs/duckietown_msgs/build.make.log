@@ -16,8 +16,8 @@
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_StopLineReading
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_AprilTagDetection
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_AprilTagsWithInfos
-[  0%] Built target _duckietown_msgs_generate_messages_check_deps_DuckieSensor
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_ThetaDotSample
+[  0%] Built target _duckietown_msgs_generate_messages_check_deps_DuckieSensor
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_SegmentList
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_CarControl
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_KinematicsParameters
@@ -29,13 +29,13 @@
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_LEDDetectionDebugInfo
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_Rect
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_TagInfo
-[  0%] Built target _duckietown_msgs_generate_messages_check_deps_VehicleCorners
-[  0%] Built target _duckietown_msgs_generate_messages_check_deps_SceneSegments
 [  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target _duckietown_msgs_generate_messages_check_deps_SceneSegments
+[  0%] Built target _duckietown_msgs_generate_messages_check_deps_VehicleCorners
 [  0%] Built target geometry_msgs_generate_messages_cpp
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_VehiclePose
-[  0%] Built target _duckietown_msgs_generate_messages_check_deps_ObstacleProjectedDetectionList
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_Trajectory
+[  0%] Built target _duckietown_msgs_generate_messages_check_deps_ObstacleProjectedDetectionList
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_Pose2DStamped
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_WheelsCmdStamped
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_AntiInstagramTransform
@@ -45,11 +45,11 @@
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_Segment
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_CoordinationSignal
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_Vector2D
-[  0%] Built target sensor_msgs_generate_messages_py
 [  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _duckietown_msgs_generate_messages_check_deps_AntiInstagramHealth
 [  0%] Built target std_msgs_generate_messages_py
 [  0%] Built target _duckietown_msgs_generate_messages_check_deps_Pixel
-[  0%] Built target _duckietown_msgs_generate_messages_check_deps_AntiInstagramHealth
 [ 48%] Built target duckietown_msgs_generate_messages_cpp
 [100%] Built target duckietown_msgs_generate_messages_py
 [100%] Built target duckietown_msgs_generate_messages
